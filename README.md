@@ -1,0 +1,7 @@
+- creare un ciclo for che si ripeta per 100 volte;
+- in base al valore dell'indice i + 1 dividere in 4 casi differenti;
+    - divisibile per 3 e per 5 (stampare FIzzBuzz);
+    - divisibile per 3 (stampare FIzz);
+    - divisibile per 5 (stampare Buzz);
+    - stampare il numero se non rientra in nessuno dei tre casi precedenti;
+- implementare la stilizzazione nel DOM con stili differenti per ciascuno dei casi;
