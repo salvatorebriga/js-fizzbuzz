@@ -4,3 +4,34 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+body{
+    background-color: #083b4c;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1{
+    color: white;
+    font-size: 75px;
+}
+
+.col-10{
+    margin: 5px;
+    width: calc(100% / 10 - 10px);
+    height: 100px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
