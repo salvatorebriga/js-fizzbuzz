@@ -29,9 +29,25 @@ h1{
 .col-10{
     margin: 5px;
     width: calc(100% / 10 - 10px);
-    height: 100px;
+    height: 104px;
     background-color: white;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.bg-number{
+    background-color: #1389b2;
+}
+
+.bg-fizz{
+    background-color: #0cd6a1;
+}
+
+.bg-buzz{
+    background-color: #ffd166;
+}
+
+.bg-FizzBuzz{
+    background-color: #f0466f;
 }
